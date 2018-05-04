@@ -1,0 +1,3 @@
+class HomicideDatum < ApplicationRecord
+  
+end
